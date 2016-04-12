@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<fullscreen val="1"/>
+	<width val="800"/>
+	<height val="600"/>
+	<sfx val="1.000000"/>
+	<bgm val="1.000000"/>
+</settings>
